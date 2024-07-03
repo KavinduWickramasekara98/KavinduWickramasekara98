@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Kavindu Wickramasekara</h1>
 <h3 align="center">Game and Blockchain Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif" style="border-radius: 10px;">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavinduwickramasekara98&label=Profile%20views&color=0e75b6&style=flat" alt="kavinduwickramasekara98" /> </p>
 
